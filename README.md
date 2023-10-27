@@ -2,19 +2,13 @@
 
 <div>
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=italomarcony" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=italomarcony&layout=compact&langs_count=8&card_width=320" />
-</a>
-<!-- <a href="https://github.com/italomarcony">
+<a href="https://github.com/italomarcony">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=italomarcony&theme=dark&title_color=800080&icon_color=FFC0CB" />
 </a>
 <a href="https://github.com/italomarcony">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=italomarcony&layout=compact&langs_count=8&card_width=320&theme=dark&title_color=800080&icon_color=FFC0CB" />
 </a>
-</div> -->
+</div>
 
 ##
 
