@@ -1,14 +1,5 @@
 ## Olá eu sou Ítalo Marcony
 
-<div>
-
-<a href="https://github.com/italomarcony">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=italomarcony&theme=dark&title_color=800080&icon_color=FFC0CB" />
-</a>
-<a href="https://github.com/italomarcony">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=italomarcony&layout=compact&langs_count=8&card_width=320&theme=dark&title_color=800080&icon_color=FFC0CB" />
-</a>
-</div>
 
 ##
 
